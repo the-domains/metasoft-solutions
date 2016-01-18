@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Metasoft Solutions]]></title>
+        <description><![CDATA[Metasoft Solutions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 11:15:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Metasoft Solutions an upstart company focuses on Data Science Consulting, Unified Communication Solutions and Network Testing. Highly energetic team of Metasoft is Client centric and customer driven entity. Currently Metasoft working with fortune 500 companies in US, UK, Germany and India. Metasoft partnered with IBM, Microsoft, Polycom and CISCO to sell their System Integration solutions in the areas of Data Science, Unified Communication, BI and BPM.
+</p>]]></description>
+            <link>undefined24ee6baa-a81a-4bee-aef7-345d7eaf93b0/index.html</link>
+            <guid isPermaLink="false">24ee6baa-a81a-4bee-aef7-345d7eaf93b0</guid>
+            <pubDate>Mon, 18 Jan 2016 11:13:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
